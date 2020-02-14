@@ -35,7 +35,7 @@
                 'flag' => 'https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg',
                 'alt' => "Drapeau de l'Algérie"
             ],
-            'etats-unis' => [
+            'états-unis' => [
                 'capital' => 'Washington',
                 'flag' => 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg',
                 'alt' => "Drapeau des Etats-Unis"
@@ -69,11 +69,11 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
-    <meta name="description" content="">
+    <meta name="description" content="https://github.com/hepl-pwcs/capitales">
     <meta name="keywords" content="pays, capitale, php, array">
     <meta name="author" content="AKDEDE Maide">
     <meta charset="UTF-8">
